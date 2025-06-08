@@ -1,0 +1,35 @@
+1 M. D. Ediger, Annu. Rev. Phys. Chem. 51, 99 2000.
+2 S. C. Glotzer, J. Non-Cryst. Solids 274, 342 2000.
+3 L. Cipelletti and L. Ramos, J. Phys.: Condens. Matter 17,R253 2005.
+4 M. E. Cates, J. P. Wittmer, J.-P. Bouchaud, and P. Claudin,Phys. Rev. Lett. 81, 1841 1998.
+5 Jamming and Rheology: Constrained Dynamics on Microscopic and Macroscopic Scales, edited by A. J. Liu and S. R. Nagel Taylor and Francis, New York, 2001.
+6 D. J. Durian, D. A. Weitz, and D. J. Pine, Science 252, 686 1991.
+7 P. Mayer, H. Bissig, L. Berthier, L. Cipelletti, J. P. Garrahan, P.
+Sollich, and V. Trappe, Phys. Rev. Lett. 93, 115701 2004.
+8 A. D. Gopal and D. J. Durian, Phys. Rev. Lett. 75, 2610 1995.
+9 A. H. Marcus, J. Schofield, and S. A. Rice, Phys. Rev. E 60, 5725 1999.
+10 W. K. Kegel and A. van Blaaderen, Science 287, 290 2000.
+11 E. R. Weeks, J. C. Crocker, A. C. Levitt, A. Schofield, and D. A. Weitz, Science 287, 627 2000.
+12 O. Pouliquen, M. Belzons, and M. Nicolas, Phys. Rev. Lett. 91, 014301 2003.
+13 G. Marty and O. Dauchot, Phys. Rev. Lett. 94, 015701 2005.
+14 N. Lacevic, F. W. Starr, T. B. Schroder, and S. C. Glotzer, J. Chem. Phys. 119, 7372 2003.
+15 L. Berthier, G. Biroli, J. P. Bouchaud, L. Cipelletti, D. E.
+Masri, D. L’Hote, F. Ladieu, and M. Perino, Science 310, 1797 2005.
+16 O. Dauchot, G. Marty, and G. Biroli, Phys. Rev. Lett., 95, 265701 2005.
+17 A. S. Keys, A. R. Abate, S. C. Glotzer, and D. J. Durian, Nat. Phys. 3, 260 2007.
+18 A. J. Bray, B. Derrida, and C. Godreche, Europhys. Lett. 27, 175 1994.
+19 W. Y. Tam, R. Zeitak, K. Y. Szeto, and J. Stavans, Phys. Rev. Lett. 78, 1588 1997.
+20 A. R. Abate and D. J. Durian, Phys. Rev. E 74, 031308 2006.
+21 A. R. Abate and D. J. Durian, Phys. Rev. E 72, 031305 2005.
+22 A. R. Abate and D. J. Durian, Chaos to be published.
+23 R. Yamamoto and A. Onuki, Phys. Rev. E 58, 3515 1998.
+24 F. Moucka and I. Nezbeda, Phys. Rev. Lett. 94, 040601 2005.
+25 P. M. Reis, R. A. Ingale, and M. D. Shattuck, Phys. Rev. Lett. 96, 258001 2006.
+26 C. S. O’Hern, L. E. Silbert, A. J. Liu, and S. R. Nagel, Phys. Rev. E 68, 011306 2003.
+27 J. A. Drocco, M. B. Hastings, C. J. Olson Reichhardt, and C. Reichhardt, Phys. Rev. Lett. 95, 088001 2005.
+28 P. Olsson and S. Teitel, arXiv:0704.1806.
+29 M. Wyart, S. R. Nagel, and T. A. Witten, Europhys. Lett. 72,486 2005.
+30 L. E. Silbert, A. J. Liu, and S. R. Nagel, Phys. Rev. Lett. 95, 098301 2005.
+31 J. M. Schwarz, A. J. Liu, and L. Q. Chayes, Europhys. Lett. 73, 560 2006.
+32 D. J. Durian, Phys. Rev. Lett. 75, 4780 1995.
+33 D. J. Durian, Phys. Rev. E 55, 1739 1997.
