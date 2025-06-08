@@ -1,6 +1,10 @@
 # DOI Finder
 
-This project provides a command-line tool for finding DOIs (Digital Object Identifiers) from academic citations using various APIs. The main functionality is encapsulated in the `DOIFinder` class, which can parse citations, search for DOIs, and save results in both CSV and Excel formats.
+This project provides a command-line tool for finding DOIs (Digital Object Identifiers) from academic citations using the CrossRef API interface habanero: https://github.com/sckott/habanero.git. The main functionality is encapsulated in the `DOIFinder` class, which can parse citations, search for DOIs, and save results in both CSV and Excel formats.
+
+This script was designed so that the user could simply copy and paste all of the references from a given paper and get the DOIs/links to these papers automatically. With minimal processing (make sure you only have one reference per line in your input text file), this script will take in a list of references and return both the raw doi as well as a link to the paper in a csv. Additionally (and importantly) if you continually keep adding references to the csv file by copying/adding new references from other papers, the script automatically detects papers which you have already added, and will inform you that while there may be, for example, 20-30 references in the list you provided, a few had already been added to your csv file by a previous run, so they were not added this time.
+
+Also, feel free to edit the resultant excel file to keep track of which papers you have read, downloaded, exhausted the citations of, etc. The script is made to not entirely overwrite your excel/csv file each time you add/purge citations, but rather just keeps a running list.
 
 ### Files ###
 
