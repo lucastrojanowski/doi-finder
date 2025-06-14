@@ -70,4 +70,4 @@ If a DOI is not found, then the doi column will have "Not Found" in it. You must
 
 ## License
 
-Copyright (C) 2025 Lucas Trojanowski under MIT license
+None
