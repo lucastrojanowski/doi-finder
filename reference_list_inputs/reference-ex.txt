@@ -13,8 +13,7 @@ Sollich, and V. Trappe, Phys. Rev. Lett. 93, 115701 2004.
 12 O. Pouliquen, M. Belzons, and M. Nicolas, Phys. Rev. Lett. 91, 014301 2003.
 13 G. Marty and O. Dauchot, Phys. Rev. Lett. 94, 015701 2005.
 14 N. Lacevic, F. W. Starr, T. B. Schroder, and S. C. Glotzer, J. Chem. Phys. 119, 7372 2003.
-15 L. Berthier, G. Biroli, J. P. Bouchaud, L. Cipelletti, D. E.
-Masri, D. L’Hote, F. Ladieu, and M. Perino, Science 310, 1797 2005.
+15 L. Berthier, G. Biroli, J. P. Bouchaud, L. Cipelletti, D. E. Masri, D. L’Hote, F. Ladieu, and M. Perino, Science 310, 1797 2005.
 16 O. Dauchot, G. Marty, and G. Biroli, Phys. Rev. Lett., 95, 265701 2005.
 17 A. S. Keys, A. R. Abate, S. C. Glotzer, and D. J. Durian, Nat. Phys. 3, 260 2007.
 18 A. J. Bray, B. Derrida, and C. Godreche, Europhys. Lett. 27, 175 1994.
