@@ -4,8 +4,7 @@
 4 M. E. Cates, J. P. Wittmer, J.-P. Bouchaud, and P. Claudin,Phys. Rev. Lett. 81, 1841 1998.
 5 Jamming and Rheology: Constrained Dynamics on Microscopic and Macroscopic Scales, edited by A. J. Liu and S. R. Nagel Taylor and Francis, New York, 2001.
 6 D. J. Durian, D. A. Weitz, and D. J. Pine, Science 252, 686 1991.
-7 P. Mayer, H. Bissig, L. Berthier, L. Cipelletti, J. P. Garrahan, P.
-Sollich, and V. Trappe, Phys. Rev. Lett. 93, 115701 2004.
+7 P. Mayer, H. Bissig, L. Berthier, L. Cipelletti, J. P. Garrahan, P. Sollich, and V. Trappe, Phys. Rev. Lett. 93, 115701 2004.
 8 A. D. Gopal and D. J. Durian, Phys. Rev. Lett. 75, 2610 1995.
 9 A. H. Marcus, J. Schofield, and S. A. Rice, Phys. Rev. E 60, 5725 1999.
 10 W. K. Kegel and A. van Blaaderen, Science 287, 290 2000.
